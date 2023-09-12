@@ -1,5 +1,2 @@
 Hello this is for testing purpose.
 
-This is used for text
- 
-lorem ipsum
